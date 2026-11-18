@@ -1,0 +1,15 @@
+{
+  "name": "buildshorts",
+  "description": "BuildShorts: clone any viral format, build the shorts on your own computer with your own Claude.",
+  "owner": { "name": "BuildShorts", "url": "https://buildshorts.com" },
+  "metadata": { "version": "0.1.0" },
+  "plugins": [
+    {
+      "name": "buildshorts",
+      "source": "./plugins/buildshorts",
+      "description": "Connects Claude Code to BuildShorts and installs the local runner that renders your videos (setup, status, doctor, update, build).",
+      "homepage": "https://buildshorts.com",
+      "category": "productivity"
+    }
+  ]
+}

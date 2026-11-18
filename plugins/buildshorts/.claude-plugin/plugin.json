@@ -1,0 +1,9 @@
+{
+  "name": "buildshorts",
+  "version": "0.1.0",
+  "description": "Connect Claude Code to BuildShorts and render your shorts on this computer: setup, status, doctor, update, and the build recipe.",
+  "author": { "name": "BuildShorts", "url": "https://buildshorts.com" },
+  "homepage": "https://buildshorts.com",
+  "license": "SEE LICENSE IN LICENSES.md",
+  "keywords": ["video", "shorts", "reels", "tiktok", "youtube-shorts"]
+}
