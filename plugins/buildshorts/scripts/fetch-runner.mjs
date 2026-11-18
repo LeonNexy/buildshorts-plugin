@@ -13,7 +13,7 @@ import { Readable } from 'node:stream';
 import { pipeline } from 'node:stream/promises';
 
 const PUBLIC_KEY = `-----BEGIN PUBLIC KEY-----
-MCowBQYDK2VwAyEA97C3mzg/yJEYj0Znj9oRnnYMsWG6HBn4/MLCQnuSaME=
+MCowBQYDK2VwAyEAewJyv37oC+imiuI1vKOADickMEcCOwvBNChzFebiCHk=
 -----END PUBLIC KEY-----
 `;
 const SIGNED_FIELDS = ['name', 'version', 'file', 'sha256', 'size', 'hyperframes', 'minNode', 'blocks', 'publishedAt'];
