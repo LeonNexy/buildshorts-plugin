@@ -2,7 +2,7 @@
   "name": "buildshorts",
   "description": "BuildShorts: clone any viral format, build the shorts on your own computer with your own Claude.",
   "owner": { "name": "BuildShorts", "url": "https://buildshorts.com" },
-  "metadata": { "version": "0.1.0" },
+  "metadata": { "version": "0.1.1" },
   "plugins": [
     {
       "name": "buildshorts",

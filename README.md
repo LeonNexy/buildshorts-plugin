@@ -16,4 +16,4 @@ keys (ElevenLabs, OpenAI, Kie.ai, Gemini) stay on your computer: macOS Keychain 
 Commands: `/buildshorts:setup`, `/buildshorts:status`, `/buildshorts:doctor`, `/buildshorts:update`.
 Then say "build I-12" in Claude Code.
 
-Plugin 0.1.0. See LICENSE.
+Plugin 0.1.1. See LICENSE.
